@@ -1,6 +1,7 @@
 This research demonstrated that constructors affect class cohesion
 much stronger than regular object methods. The paper was presented
-at ICSA 2020 in Salvador, Brazil. If you want to cite it, use this:
+at [ICSA 2020](http://icsa-conferences.org/2020/index.html)
+in Salvador, Brazil. If you want to cite it, use this:
 
 ```
 @inproceedings{bugayenko2020impact,
